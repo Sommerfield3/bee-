@@ -10,6 +10,6 @@ int main() {
     float X,Y;
     float total;
     total=X/Y;
-    cout<<fixed<<setpresicion(3)<<total<<" "<<"km/l";
+    cout<<fixed<<setprecision(3)<<total<<" "<<"km/l";
     return 0;
 }
