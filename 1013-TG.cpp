@@ -3,7 +3,7 @@ Make a program that reads 3 integer values and present the greatest one followed
 MaiorAB=a+b+abs(a-b)/2
 */
 
-#include <stdio.h>
+#include <iostream>
 #include <cmath>
 using namespace std; 
 int MaiorAB(int a, int b){
